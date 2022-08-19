@@ -1,2 +1,3 @@
 这是第二个草稿文件，测试只提交修改过的 draft。
 测试 git commit -v。
+测试 git commit --allow-empty-message。
